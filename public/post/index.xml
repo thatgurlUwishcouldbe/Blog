@@ -12,7 +12,7 @@
     <lastBuildDate>Wed, 19 Mar 2025 03:45:50 +0300</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>SecondPost</title>
+      <title>Git BootCamp</title>
       <link>http://localhost:1313/post/march/secondpost/</link>
       <pubDate>Wed, 19 Mar 2025 03:45:50 +0300</pubDate>
       <author>reemozezo@gmail.com (    )</author>
@@ -22,7 +22,17 @@
     </item>
     
     <item>
-      <title>ThirdPost</title>
+      <title>Poppy Playtime</title>
+      <link>http://localhost:1313/post/march/5thpost/</link>
+      <pubDate>Wed, 19 Mar 2025 03:45:50 +0300</pubDate>
+      <author>reemozezo@gmail.com (    )</author>
+      <guid>http://localhost:1313/post/march/5thpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>why Genshin and games?</title>
       <link>http://localhost:1313/post/march/thirdposr/</link>
       <pubDate>Wed, 19 Mar 2025 03:45:50 +0300</pubDate>
       <author>reemozezo@gmail.com (    )</author>
@@ -32,7 +42,17 @@
     </item>
     
     <item>
-      <title>FirstPost</title>
+      <title>Genshin</title>
+      <link>http://localhost:1313/post/march/fourthpost/</link>
+      <pubDate>Wed, 19 Mar 2025 03:43:38 +0300</pubDate>
+      <author>reemozezo@gmail.com (    )</author>
+      <guid>http://localhost:1313/post/march/fourthpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git BootCamp</title>
       <link>http://localhost:1313/post/march/firstpost/</link>
       <pubDate>Wed, 19 Mar 2025 03:43:38 +0300</pubDate>
       <author>reemozezo@gmail.com (    )</author>
@@ -43,10 +63,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/post/march/gbc/secondpost/</link>
+      <link>http://localhost:1313/post/march/6thpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>reemozezo@gmail.com (    )</author>
-      <guid>http://localhost:1313/post/march/gbc/secondpost/</guid>
+      <guid>http://localhost:1313/post/march/6thpost/</guid>
       <description></description>
       
     </item>
